@@ -2,8 +2,6 @@
 
 Telnyx SMS REST API setup, including A2P 10DLC registration, two-way messaging, bulk SMS integration and testing.
 
----
-
 ## 📋 Prerequisites
 
 - Telnyx account — [Sign up here](https://telnyx.com)
@@ -16,7 +14,6 @@ Telnyx SMS REST API setup, including A2P 10DLC registration, two-way messaging, 
 - [Required Documents For International](https://support.telnyx.com/en/articles/5469551-international-numbers-required-documents)
 - [Local Calling](https://support.telnyx.com/en/articles/6622229-pstn-replacement-local-calling-with-telnyx)
 
----
 ## 📱 A2P 10DLC Registration
 
 Required for sending A2P (Application-to-Person) SMS in the US.
@@ -27,23 +24,13 @@ Required for sending A2P (Application-to-Person) SMS in the US.
 3. Link your **phone number** to the campaign
 4. Wait for carrier approval (1–5 business days)
 
-> ⚠️ Unregistered numbers will have SMS filtered or blocked by US carriers.
+⚠️ Unregistered numbers will have SMS filtered or blocked by US carriers.
 
----
-
-## ✉️ Send SMS (Basic)
+## ✉️ Send Bulk SMS Local or International
 ## 🔁 Two-Way Messaging (Webhook)
 ## 📦 Bulk SMS Integration
 ## 🔐 Security Best Practices
 ## ⚙️ Environment Variables
 
-## 📞 Support
-
-- Telnyx Docs: [developers.telnyx.com](https://developers.telnyx.com)
-- Telnyx Support: [telnyx.com/contact](https://telnyx.com/contact)
-
----
-
 ## 📄 License
-
 MIT License
